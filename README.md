@@ -1,1 +1,1 @@
-# laravel-one-to-many
+# laravel-many-to-many
